@@ -46,7 +46,7 @@ tengas de tus potenciales usuarixs!
 
 ## 3. Consideraciones generales
 
-- Este proyecto se debe resolver en equipos de 2 o más personas.
+- Este proyecto se debe resolver individualmente.
 - Debes elegir y sustentar qué problema o necesidad estás resolviendo con el
 producto que estás diseñando y desarrollando.
 - Debes utilizar los datos de la API de [OMDB](http://www.omdbapi.com/) (The
@@ -56,11 +56,8 @@ producto que estás diseñando y desarrollando.
 - Piensa en _test driven development_ al momento de programar la solución.
   Tendrás que escribir las pruebas unitarias, aprovecha la oportunidad de
   comenzar haciéndolo antes de escribir la funcionalidad.
-- Este proyecto es "agnóstico" a la tecnología que uses, es decir puedes
-  desarrollarlo en Vanilla JavaScript o algún _framework_  o biblioteca
-  (librería) de tu elección.
-- Intenta pensar en un alcance que, considerando su complejidad y la cantidad de
-  personas en el equipo, permita terminar el proyecto en 2 semanas.
+- Debes desarrollarlo en Vanilla JavaScript
+- Intenta pensar en un alcance que, considerando su complejidad.
 
 ## 4. Objetivos de aprendizaje
 
